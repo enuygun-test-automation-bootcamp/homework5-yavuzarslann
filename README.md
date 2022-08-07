@@ -1,6 +1,6 @@
 # homework5
 
-##Overview
+## Overview
 ___
 In this homework an Android app called Contact Manager is tested with using appium. Locators are found with using appium inspector. Also try catch structure is used for exceptions. The test scenarios are:<br>
 - User checks title whether it is "Add Contact"
@@ -15,11 +15,11 @@ In this homework an Android app called Contact Manager is tested with using appi
 - User checks special characters limit for contact name
 
 In this application there is no character or number limit for contact name, contact email and contact phone. At the same time there is no restriction for special character limit and also it accepts empty fields.
-##Prerequisites
+## Prerequisites
 ___
 This homework developed with java 11 so, you need to use java 11 to run this project.
 
-##Build With
+## Build With
 ___
 - [Maven](https://maven.apache.org) - Dependency Management
 
