@@ -1,6 +1,14 @@
 # homework5
-1-Appium'da test yazılıp, bu testler için try catch kullanılarak FileNotFundException, NullPointerException vb. exceptionlar için exception handling yapılacak.<br>
--Extra Puan için dileyenler Capability Check yapabilir. (Gerçekten json dosyasından aldığım cihazı mı test ediyorum?)<br>
-2-Contact Manager uygulamasının senaryoları yazılacak. https://github.com/movilidadagil/ContactManagerAPIProject <br>
-3-Charles Proxy araştırılacak. (Optional-İsteyen araştırabilir, zorunlu değil)<br>
-Not: Bu ödevde README.md dosyalarınızın özenli olmasını bekliyor olacağız.
+___
+In this homework an Android app called Contact Manager is tested with using appium. Locators are found with using appium inspector The test scenarios are:<br>
+- User checks title whether it is "Add Contact"
+- User adds a work account successfully
+- User adds a mobile account successfully
+- User adds a home account successfully
+- User checks required fields for add account page
+- User adds a home account with home email successfully
+- User checks number limit for contact phone field
+- User checks whether contact name accepts number and digit
+- User checks special characters limit for contact phone field
+- User checks special characters limit for contact name
+
